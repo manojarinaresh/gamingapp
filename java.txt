@@ -1,4 +1,11 @@
 test1
 
+<<<<<<< HEAD
 
 this line is added from main branch to check the conflict
+=======
+this is added on bug branch
+>>>>>>> bug
+
+
+both data is important, not to delete 
